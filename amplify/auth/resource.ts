@@ -13,5 +13,5 @@ export const auth = defineAuth({
       mutable: true,
       required: false
     }
-  }
+  },
 });
